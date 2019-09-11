@@ -11,8 +11,10 @@ I tried playing around with some tools (e.g. loader.io, curl, postman) and fimna
 -------------
 I used a 64bit Windows (10) laptop.
 Make sure you have java installed. I had some trouble with the latest version* (of both jmeter & java) - so after consultation with a colleague that did something similar in the past - I:
-	(1) Installed java version 8.0.2210.11
-  (2) Downloaded apache-jmeter version 2.13 
+
+(1) Installed java version 8.0.2210.11
+
+(2) Downloaded apache-jmeter version 2.13 
 
 \*In case you're interested the bug was https://stackoverflow.com/questions/47180767/apache-jmeter-error-java-version-is-too-low-to-run-jmeter
 I tried to run it via the cmd using what they said (java -jar ApacheJMeter.jar) but had trouble to apply that to the parallel running later on.
