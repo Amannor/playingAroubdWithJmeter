@@ -1,5 +1,5 @@
 # playingAroundWithJmeter
-My half-witted attempt at concurrent stress test with jmeter
+My ham-fisted attempt at concurrent stress test with jmeter
 
 ## Background
 ----------
