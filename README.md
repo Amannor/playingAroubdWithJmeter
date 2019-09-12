@@ -3,9 +3,9 @@ My ham-fisted attempt at concurrent stress test with jmeter
 
 ## Background
 ----------
-I needed to do a stress test on a small GCF (the CL) which is just a fancy way to say that I wanted to do a DDos on a http url.
+I needed to do a stress test on a small GCF which is just a fancy way to say that I wanted to do a DDos on a http url.
 
-I tried playing around with some tools (e.g. loader.io, curl, postman) and fimnally came to the conculsion that jmeter wil be the best tool (among my considerations were ease of use, ability to perform a distributed "attack", learning curve, etc.)
+I tried playing around with some tools (e.g. loader.io, curl, postman) and finally came to the conclusion that jmeter wil be the best tool (among my considerations were ease of use, ability to perform a distributed "attack", learning curve, etc.)
 
 ## Prerequisites
 -------------
