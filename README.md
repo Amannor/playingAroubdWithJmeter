@@ -48,4 +48,4 @@ You can either run it in:
 		 \# Remote Hosts - comma delimited
 		 remote_hosts=192.168.2.138,192.168.2.115
 	
-  iii) Run: jmeter.bat -n -t <full_path_of_jmx_file> -l <full_path_of_file_to_write_the_resultst_to> -r
+  iii) Run: jmeter.bat -n -t <full_path_of_jmx_file> -l <full_path_of_file_to_write_the_results_to> -r
